@@ -27,7 +27,7 @@ const Pantalla = () => {
             </div>
             <p className="peso">
               {" "}
-              <strong>Peso: {envio.peso}</strong>
+              <strong> {envio.peso} LB</strong>
             </p>
           </div>
         ))}
